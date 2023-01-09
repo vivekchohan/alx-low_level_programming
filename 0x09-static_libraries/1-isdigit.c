@@ -1,5 +1,9 @@
 #include "main.h"
+<<<<<<< HEAD
 		
+=======
+
+>>>>>>> 5e3f9d9f648d2c04854363729d7b199cb2171374
 /**
  * _isdigit - checks for a digit (0 through 9)
  * @c: int to be checked
